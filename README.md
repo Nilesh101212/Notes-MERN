@@ -22,7 +22,7 @@ Check issues tab.
 - Step 1: Clone Repository and Install Packages.
 
 ```
-git clone https://github.com/jp-quintana/mern-note-app.git
+git clone https://github.com/Nilesh101212/Notes-MERN.git
 
 npm i
 
